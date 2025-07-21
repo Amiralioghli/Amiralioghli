@@ -1,6 +1,6 @@
 <h3 align="left">
   Hi, I'm Amir — a Full Stack Developer currently working as a freelance programmer.  
-  My primary focus is on back-end development.
+  My primary focus is on back-end development using Python.
 </h3>
 
 ###
